@@ -1,0 +1,6 @@
+{
+  "type": "module",
+  "dependencies": {
+    "file-type": "^19.5.0"
+  }
+}
